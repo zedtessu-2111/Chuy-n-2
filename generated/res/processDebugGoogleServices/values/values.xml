@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">700892153412</string>
+    <string name="google_api_key" translatable="false">AIzaSyAHog0qUU9QzHaZ2xlVAw8nSZeq5jJ_buQ</string>
+    <string name="google_app_id" translatable="false">1:700892153412:android:38fc48ae9050141736de11</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAHog0qUU9QzHaZ2xlVAw8nSZeq5jJ_buQ</string>
+    <string name="google_storage_bucket" translatable="false">rider-booking-a25f7.firebasestorage.app</string>
+    <string name="project_id" translatable="false">rider-booking-a25f7</string>
+</resources>
