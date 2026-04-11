@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "700892153412",
+    "project_id": "rider-booking-a25f7",
+    "storage_bucket": "rider-booking-a25f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700892153412:android:38fc48ae9050141736de11",
+        "android_client_info": {
+          "package_name": "com.dongasia.it3237.ride_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHog0qUU9QzHaZ2xlVAw8nSZeq5jJ_buQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
